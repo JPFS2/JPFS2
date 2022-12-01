@@ -3,7 +3,7 @@
 
 ## 💡 My Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,delphi,mysql,html,css,sass,bootstrap,js,nodejs,git,postgres)](https://github.com/JPFS2)
+[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,js,nodejs,mysql,html,css,sass,bootstrap,git,postgres)](https://github.com/JPFS2)
 
 ## 🌐 Connect with me
 
